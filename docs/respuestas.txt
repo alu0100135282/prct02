@@ -1,0 +1,49 @@
+1. Iniciar una sesión de trabajo en GNU-Linux.
+
+2. Abrir en un navedador (Firefox, Chrome, etc.) la siguiente URL: https://c9.io
+
+3. Seleccione el espacio de trabajo que aparece el marco de la izquierda denominado “hian”.
+
+4. En la ventana de la derecha pulse el botón verde “Start Editing”
+
+3. Seleccione el espacio de trabajo que aparece el marco de la
+  izquierda denominado “hian”.
+
+4. En la ventana de la derecha pulse el bot ́on verde “Start Editing”.
+
+5. Cree un nuevo directorio denominado prct02 (mkdir prct02). Este será el
+  directorio de trabajo durante la realización de esta práctica.
+
+6. Sitúese en el directorio prct02 y cree la estructura de directorios que le
+  permita tener subcarpetas para el código y los documentos, es decir:
+   un subdirectorio src
+   un subdirectorio docs
+
+7. Cree un fichero respuestas.txt en en el directorio docs. Escriba en ́el las respuestas a las
+preguntas que se platean en este documento.
+
+8. ¿Qué es GitHub?
+
+9. Cree una cuenta en GitHub.
+  a) Abra en el navegador el sitio de GitHub: http://github.com
+  b) Pulse el bot ́on verde que aparece en pantalla.
+  c) Introduzca como Nombre de Usuario su aluXXXXXXXXX
+  d) Introduzca su direccíon de correo electŕonico institucional:
+     aluXXXXXXXXX@ull.edu.es
+  e) Introduzca su contrasẽna (utilice la misma que la de su cuenta institucional)
+  f) Pulse el bot́on verde para crear la cuenta.
+  
+10. ¿Qúe es una clave ṕublica?
+11. Sit́uese en la Pestãna de Comandos (Dashboard) de Cloud 9 . En la seccíon de la derecha,
+bajo el epígrafe “account settings” seleccione la opción “Show your SSH key”
+12. Copie en el almacenamiento temporal la clave-ṕublica. Para ello, pulse el boton verde “copy” .
+13. Sit́uese en la pestãna de GitHuby ãnada clave-ṕublica que ha copiado.
+  a) En la barra de usuario, en la esquina superior derecha de la ṕagina, haga clik en el icono
+    de “Configuracíon de la cuenta” (Account Settings).
+  b) En la barra de opciones que aparece en a la izquierda haga clik en la etiqueta “Claves SSH” (SSH Keys).
+  c) Haga clik en el botón “Add SSH key” que aparece a la derecha.
+  d) En el campo de texto T́ıtulo (Title)) escriba Cloud 9
+  e) En el ́area de texto Clave (Key)) pegue (Ctrl+V) la clave que copi ́o en el ejercicio 12.
+  f) Pulse el bot́on verde para crear la clave (Add key).
+  
+  
